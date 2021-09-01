@@ -1,0 +1,1 @@
+# test-newspaper-crud
