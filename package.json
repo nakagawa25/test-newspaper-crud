@@ -1,0 +1,17 @@
+{
+  "name": "test-newspaper-crud",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/server.js"
+  },
+  "repository": "https://github.com/nakagawa25/test-newspaper-crud.git",
+  "author": "Lucas Nakagawa <lucasnakagawanascimento@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongodb": "^4.1.1",
+    "mongoose": "^6.0.4",
+    "yup": "^0.32.9"
+  }
+}
