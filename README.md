@@ -12,7 +12,7 @@ Note: This repository contains only the back-end application, the front-end appl
 
 ## ⚙️ Prerequisites
 - [Node js](https://nodejs.org/en/)
-- [React js](https://www.mongodb.com/pt-br)
+- [Mongo DB](https://www.mongodb.com/pt-br)
 
 ## Running
 ### API
